@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "nareka88/ckfinder": "~1.0"
+            "\\nareka88\\yii2-ckfinder\\": "~1.0"
         }
     }
 }
